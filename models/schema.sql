@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS game_library;
+CREATE DATABASE game_library;
